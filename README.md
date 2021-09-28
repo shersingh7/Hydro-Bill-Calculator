@@ -1,4 +1,4 @@
-# Hydro-Bill-Calculator
+# Hydro-Bill-Calculator-Android-App
 
 An Android app that will allow you to generate the bill amount of hydro consumption as follows.
 
